@@ -1,0 +1,1 @@
+# 通过golang调用Minio的api，实现高可用后台
